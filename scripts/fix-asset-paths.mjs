@@ -14,6 +14,9 @@ function processFile(filePath) {
   content = content.replace(/href="\/images\//g, `href="${BASE_PATH}/images/`);
   content = content.replace(/url\(\/images\//g, `url(${BASE_PATH}/images/`);
   
+  // Fix meta refresh redirect (adds basePath to url=/zh or /en)
+  content = content.replace(/content="0; url=\/(zh|en)(\/|\")/g, 'content="0; url=' + BASE_PATH + '/$1$2');
+
   // Fix favicon and SVG assets at root
   for (const asset of ['favicon.ico', 'file.svg', 'globe.svg', 'next.svg', 'vercel.svg', 'window.svg']) {
     content = content.replace(new RegExp(`href="\/${asset}`, 'g'), `href="${BASE_PATH}/${asset}`);
