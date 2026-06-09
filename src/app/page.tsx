@@ -1,10 +1,12 @@
 import Link from "next/link";
 
+const basePath = process.env.NEXT_OUTPUT_EXPORT === "true" ? "/dingtaian-website" : "";
+
 export default function RootHomePage() {
   return (
     <html lang="zh" className="h-full">
       <head>
-        <meta httpEquiv="refresh" content="0; url=/zh" />
+        <meta httpEquiv="refresh" content={`0; url=${basePath}/zh`} />
       </head>
       <body className="flex min-h-full items-center justify-center bg-primary px-6 text-white">
         <main className="max-w-xl text-center">
