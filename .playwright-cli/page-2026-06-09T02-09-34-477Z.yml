@@ -1,0 +1,486 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "鼎泰 DTA 北京鼎泰安采 矿山水害防治研究院" [ref=e5] [cursor=pointer]:
+        - /url: /zh
+        - generic [ref=e6]:
+          - generic [ref=e8]: 鼎泰
+          - generic [ref=e9]: DTA
+        - generic [ref=e10]:
+          - generic [ref=e11]: 北京鼎泰安采
+          - generic [ref=e12]: 矿山水害防治研究院
+      - navigation [ref=e13]:
+        - link "首页" [ref=e15] [cursor=pointer]:
+          - /url: /zh
+        - link "关于我们" [ref=e17] [cursor=pointer]:
+          - /url: /zh/about
+          - text: 关于我们
+          - img [ref=e18]
+        - link "科技创新" [ref=e21] [cursor=pointer]:
+          - /url: /zh/research
+          - text: 科技创新
+          - img [ref=e22]
+        - link "技术服务" [ref=e25] [cursor=pointer]:
+          - /url: /zh/services
+          - text: 技术服务
+          - img [ref=e26]
+        - link "新闻中心" [ref=e29] [cursor=pointer]:
+          - /url: /zh/news
+          - text: 新闻中心
+          - img [ref=e30]
+        - link "学术委员会" [ref=e33] [cursor=pointer]:
+          - /url: /zh/academic
+        - link "联系我们" [ref=e35] [cursor=pointer]:
+          - /url: /zh/contact
+      - button "EN" [ref=e37]:
+        - img [ref=e38]
+        - generic [ref=e40]: EN
+  - main [ref=e41]:
+    - generic [ref=e42]:
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e51]: 地面定向多分支井 · 区域超前治理
+          - heading "定向多分支井精准穿越富水构造靶区，构建超前探查、注浆改造与区域治理通道" [level=1] [ref=e52]
+          - paragraph [ref=e53]: 面向深部灰岩含水层、断层破碎带和隐伏陷落柱，开展长距离轨迹控制、靶向钻进与治理效果验证。
+          - generic [ref=e54]:
+            - link "查看技术服务" [ref=e55] [cursor=pointer]:
+              - /url: /zh/services/engineering
+            - link "专家团队" [ref=e56] [cursor=pointer]:
+              - /url: /zh/about/team
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]:
+              - generic [ref=e60]: 顶尖专家矩阵
+              - generic [ref=e61]: 高级顾问、首席科学家与研究院专家库协同支撑
+            - link "查看完整专家库" [ref=e62] [cursor=pointer]:
+              - /url: /zh/about/team
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - img "王慧明" [ref=e67]
+              - generic [ref=e68]:
+                - generic [ref=e69]: 王慧明
+                - generic [ref=e70]: 博士-教授级高工
+                - generic [ref=e71]: 能源矿业战略发展高级顾问
+            - generic [ref=e72]:
+              - img "胡彦博" [ref=e74]
+              - generic [ref=e75]:
+                - generic [ref=e76]: 胡彦博
+                - generic [ref=e77]: 博士-副教授
+                - generic [ref=e78]: 研究院首席科学家、技术顾问
+            - generic [ref=e79]:
+              - img "王启庆" [ref=e81]
+              - generic [ref=e82]:
+                - generic [ref=e83]: 王启庆
+                - generic [ref=e84]: 博士-教授
+                - generic [ref=e85]: 专家库成员
+            - generic [ref=e86]:
+              - img "刘瑜" [ref=e88]
+              - generic [ref=e89]:
+                - generic [ref=e90]: 刘瑜
+                - generic [ref=e91]: 博士-副教授
+                - generic [ref=e92]: 专家库成员
+            - generic [ref=e93]:
+              - img "刘士亮" [ref=e95]
+              - generic [ref=e96]:
+                - generic [ref=e97]: 刘士亮
+                - generic [ref=e98]: 博士-教授
+                - generic [ref=e99]: 专家库成员
+            - generic [ref=e100]:
+              - img "朱厅恩" [ref=e102]
+              - generic [ref=e103]:
+                - generic [ref=e104]: 朱厅恩
+                - generic [ref=e105]: 博士-副教授
+                - generic [ref=e106]: 专家库成员
+            - generic [ref=e107]:
+              - img [ref=e109]
+              - generic [ref=e110]:
+                - generic [ref=e111]: 王慧明
+                - generic [ref=e112]: 博士-教授级高工
+                - generic [ref=e113]: 能源矿业战略发展高级顾问
+            - generic [ref=e114]:
+              - img [ref=e116]
+              - generic [ref=e117]:
+                - generic [ref=e118]: 胡彦博
+                - generic [ref=e119]: 博士-副教授
+                - generic [ref=e120]: 研究院首席科学家、技术顾问
+            - generic [ref=e121]:
+              - img [ref=e123]
+              - generic [ref=e124]:
+                - generic [ref=e125]: 王启庆
+                - generic [ref=e126]: 博士-教授
+                - generic [ref=e127]: 专家库成员
+            - generic [ref=e128]:
+              - img [ref=e130]
+              - generic [ref=e131]:
+                - generic [ref=e132]: 刘瑜
+                - generic [ref=e133]: 博士-副教授
+                - generic [ref=e134]: 专家库成员
+            - generic [ref=e135]:
+              - img [ref=e137]
+              - generic [ref=e138]:
+                - generic [ref=e139]: 刘士亮
+                - generic [ref=e140]: 博士-教授
+                - generic [ref=e141]: 专家库成员
+            - generic [ref=e142]:
+              - img [ref=e144]
+              - generic [ref=e145]:
+                - generic [ref=e146]: 朱厅恩
+                - generic [ref=e147]: 博士-副教授
+                - generic [ref=e148]: 专家库成员
+      - button "上一张" [ref=e149]:
+        - img [ref=e150]
+      - button "下一张" [ref=e152]:
+        - img [ref=e153]
+      - generic [ref=e155]:
+        - button "切换到第 1" [ref=e156]
+        - button "切换到第 2" [ref=e157]
+        - button "切换到第 3" [ref=e158]
+    - generic [ref=e161]:
+      - generic [ref=e162]:
+        - generic [ref=e163]:
+          - img [ref=e164]
+          - text: 研究院定位
+        - heading "以科研深度、现场经验和工程组织能力服务矿山安全" [level=2] [ref=e166]
+        - paragraph [ref=e167]: 北京鼎泰安采矿山水害防治研究院面向深部开采条件下高承压水、复杂构造、强采动叠加风险，整合DAS波场监测、地球物理反演、地面定向钻探和现场项目经验，形成面向矿方决策、施工组织和验收评价的一体化科研服务体系。
+        - generic [ref=e168]:
+          - link "了解研究院" [ref=e169] [cursor=pointer]:
+            - /url: /zh/about/overview
+            - text: 了解研究院
+            - img [ref=e170]
+          - link "研究方向" [ref=e172] [cursor=pointer]:
+            - /url: /zh/research/directions
+      - generic [ref=e173]:
+        - img "矿井水害三维地质解释" [ref=e174]
+        - generic [ref=e177]:
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - generic [ref=e180]: "1"
+              - generic [ref=e181]: 风险识别
+            - paragraph [ref=e182]: 梳理充水水源、导水通道、隔水层稳定性与采动扰动条件，形成可用于决策的风险分区。
+          - generic [ref=e183]:
+            - generic [ref=e184]:
+              - generic [ref=e185]: "2"
+              - generic [ref=e186]: 超前治理
+            - paragraph [ref=e187]: 面向地面定向多分支井、注浆改造、疏水降压与帷幕截流，优化治理参数与施工路径。
+          - generic [ref=e188]:
+            - generic [ref=e189]:
+              - generic [ref=e190]: "3"
+              - generic [ref=e191]: 成效评价
+            - paragraph [ref=e192]: 以钻探、物探、DAS 监测、涌水量与水化学等多源证据验证治理效果。
+          - generic [ref=e193]:
+            - generic [ref=e194]:
+              - generic [ref=e195]: "4"
+              - generic [ref=e196]: 持续优化
+            - paragraph [ref=e197]: 把项目复盘沉淀为矿井防治水标准、培训课程和长期技术顾问体系。
+    - generic [ref=e199]:
+      - generic [ref=e200]:
+        - heading "科研与工程技术方向" [level=2] [ref=e201]
+        - paragraph [ref=e203]: 聚焦深部开采水害防控的关键科学问题与现场工程难题，形成从探查到治理、从监测到验收的技术矩阵。
+      - generic [ref=e204]:
+        - article [ref=e205]:
+          - img "DAS 地震波场理论与监测" [ref=e207]
+          - generic [ref=e209]:
+            - heading "DAS 地震波场理论与监测" [level=3] [ref=e210]
+            - paragraph [ref=e211]: 研究分布式光纤传感在底板破坏、含水层扰动和隐伏构造识别中的动态响应。
+        - article [ref=e212]:
+          - img "深部灰岩含水层超前区域治理" [ref=e214]
+          - generic [ref=e216]:
+            - heading "深部灰岩含水层超前区域治理" [level=3] [ref=e217]
+            - paragraph [ref=e218]: 围绕高承压水、强径流补给和复杂构造，开展探查、注浆、降压与效果评价协同设计。
+        - article [ref=e219]:
+          - img "三维地震与矿井电法综合解释" [ref=e221]
+          - generic [ref=e223]:
+            - heading "三维地震与矿井电法综合解释" [level=3] [ref=e224]
+            - paragraph [ref=e225]: 融合三维地震、瞬变电磁、直流电法和钻孔资料，提升断层、陷落柱和富水异常识别精度。
+        - article [ref=e226]:
+          - img "高承压水治理效果评价体系" [ref=e228]
+          - generic [ref=e230]:
+            - heading "高承压水治理效果评价体系" [level=3] [ref=e231]
+            - paragraph [ref=e232]: 形成面向验收的序列验证评价方法，让治理投入、风险降低和生产接续可量化。
+      - link "查看完整研究体系" [ref=e234] [cursor=pointer]:
+        - /url: /zh/research/directions
+        - text: 查看完整研究体系
+        - img [ref=e235]
+    - generic [ref=e238]:
+      - generic [ref=e239]:
+        - heading "代表性项目能力" [level=2] [ref=e240]
+        - paragraph [ref=e242]: 从煤矿带压开采安全论证，到金属矿超高承压水 EPC 研究总承包，形成面向矿方真实问题的工程化交付能力。
+      - generic [ref=e243]:
+        - article [ref=e244]:
+          - generic [ref=e245]: EPC 总承包
+          - heading "中国黄金集团纱岭金矿超高承压水涌突致灾机理及防治研究" [level=3] [ref=e246]
+          - paragraph [ref=e247]: 合同额 4293.846277 万元，围绕超高承压水涌突机制、防治设计与治理效果评价形成成套技术成果。
+          - generic [ref=e248]:
+            - img [ref=e249]
+            - text: 可形成风险结论、治理方案、关键参数与验收评价
+        - article [ref=e251]:
+          - generic [ref=e252]: 带压开采
+          - heading "山东能源邱集、赵官、新驿等矿井多采区防治水安全论证" [level=3] [ref=e253]
+          - paragraph [ref=e254]: 服务多个采区顶底板岩溶水害超前治理效果评价、带压开采安全论证与隐蔽灾害治理。
+          - generic [ref=e255]:
+            - img [ref=e256]
+            - text: 可形成风险结论、治理方案、关键参数与验收评价
+        - article [ref=e258]:
+          - generic [ref=e259]: 隐伏构造
+          - heading "淮北矿业隐伏陷落柱突水机理及快速查治关键技术研究" [level=3] [ref=e260]
+          - paragraph [ref=e261]: 针对隐伏陷落柱、断层导水和采动扰动耦合问题，建立风险识别与快速查治技术路线。
+          - generic [ref=e262]:
+            - img [ref=e263]
+            - text: 可形成风险结论、治理方案、关键参数与验收评价
+        - article [ref=e265]:
+          - generic [ref=e266]: 下组煤评价
+          - heading "潞安司马煤业下组煤突水危险性评价及防治技术研究" [level=3] [ref=e267]
+          - paragraph [ref=e268]: 为下组煤开采水文地质条件、突水危险性评价、防治水技术路线提供系统支撑。
+          - generic [ref=e269]:
+            - img [ref=e270]
+            - text: 可形成风险结论、治理方案、关键参数与验收评价
+      - link "查看科研成果" [ref=e273] [cursor=pointer]:
+        - /url: /zh/research/achievements
+        - text: 查看科研成果
+        - img [ref=e274]
+    - generic [ref=e277]:
+      - generic [ref=e278]:
+        - heading "高级顾问与首席科学家" [level=2] [ref=e279]
+        - paragraph [ref=e281]: 管理、产业资源、科研能力与国家级学术渊源共同构成研究院的核心可信度。
+      - generic [ref=e282]:
+        - article [ref=e283]:
+          - img "王慧明" [ref=e286]
+          - generic [ref=e287]:
+            - generic [ref=e288]: 能源矿业战略发展高级顾问
+            - heading "王慧明" [level=3] [ref=e289]
+            - paragraph [ref=e290]: 工学博士，研究员级高级工程师、高级政工师。长期深耕能源与矿业领域，曾任大型矿业集团董事长、总经理和大型央企煤炭产业负责人，擅长集团化治理、重大工程组织与风险管控。
+            - generic [ref=e291]:
+              - generic [ref=e292]: 重大工程组织
+              - generic [ref=e293]: 产业资源协同
+              - generic [ref=e294]: 矿山运营管理
+        - article [ref=e295]:
+          - img "胡彦博" [ref=e298]
+          - generic [ref=e299]:
+            - generic [ref=e300]: 研究院首席科学家、技术顾问
+            - heading "胡彦博" [level=3] [ref=e301]
+            - paragraph [ref=e302]: 地质资源与地质工程专业博士、副教授、地质工程系主任，矿井水害防治研究中心主任。曾在徐州矿务集团矿建项目担任技术员、技术主管、总工程师、生产副总经理、安全副总经理、副总经理（主持工作），兼任山东能源集团鲁西矿业科技副总等职务。
+            - generic [ref=e303]:
+              - generic [ref=e304]: DAS 波场监测
+              - generic [ref=e305]: 高承压水治理评价
+              - generic [ref=e306]: 50+ 防治水项目
+      - link "进入专家库" [ref=e308] [cursor=pointer]:
+        - /url: /zh/about/team
+        - text: 进入专家库
+        - img [ref=e309]
+    - generic [ref=e314]:
+      - generic [ref=e315]:
+        - generic [ref=e316]: 300+
+        - generic [ref=e317]: 矿井水害防治项目
+      - generic [ref=e318]:
+        - generic [ref=e319]: 120+
+        - generic [ref=e320]: SCI 论文
+      - generic [ref=e321]:
+        - generic [ref=e322]: 20+
+        - generic [ref=e323]: 授权发明
+      - generic [ref=e324]:
+        - generic [ref=e325]: 5+
+        - generic [ref=e326]: 矿井水害防治专著
+    - generic [ref=e328]:
+      - generic [ref=e329]:
+        - heading "世界科技前沿观察" [level=2] [ref=e330]
+        - paragraph [ref=e332]: 持续跟踪定向钻、DAS 监测、三维地震、矿井电法与智能预警技术，把国际前沿转化为矿山防治水现场方案。
+      - generic [ref=e333]:
+        - generic [ref=e334]:
+          - img "DAS 矿井水害监测指挥中心" [ref=e335]
+          - generic [ref=e337]:
+            - generic [ref=e338]:
+              - img [ref=e339]
+              - text: 前沿技术雷达
+            - heading "从全球技术趋势中筛选可落地的矿井防治水工具" [level=3] [ref=e341]
+        - generic [ref=e342]:
+          - article [ref=e343]:
+            - generic [ref=e344]: DAS
+            - heading "DAS 正在从油气与隧道监测走向矿井水害早期识别" [level=3] [ref=e345]
+            - paragraph [ref=e346]: 分布式光纤声波传感可连续获取振动与波场响应，为底板破坏、裂隙导水和异常突水前兆识别提供新型数据底座。
+            - generic [ref=e347]:
+              - generic [ref=e348]: 国际前沿参考
+              - generic [ref=e349]:
+                - link "IJRMMS 2025：DAS 用于长壁煤矿" [ref=e350] [cursor=pointer]:
+                  - /url: https://www.sciencedirect.com/science/article/pii/S136516092500067X
+                  - generic [ref=e351]: IJRMMS 2025：DAS 用于长壁煤矿
+                  - img [ref=e352]
+                - link "Scientific Reports 2025：DAS 矿产勘查" [ref=e354] [cursor=pointer]:
+                  - /url: https://www.nature.com/articles/s41598-025-29964-6
+                  - generic [ref=e355]: Scientific Reports 2025：DAS 矿产勘查
+                  - img [ref=e356]
+          - article [ref=e358]:
+            - generic [ref=e359]: Directional drilling
+            - heading "地面定向多分支井成为区域超前治理的重要工程手段" [level=3] [ref=e360]
+            - paragraph [ref=e361]: 定向钻进可以把钻孔轨迹精准送达富水异常体、断层带和灰岩含水层，为注浆改造和效果检验提供工程通道。
+            - generic [ref=e362]:
+              - generic [ref=e363]: 国际前沿参考
+              - generic [ref=e364]:
+                - link "IMWA：水害精准探测与高效治理" [ref=e365] [cursor=pointer]:
+                  - /url: https://www.imwa.info/docs/imwa_2018/IMWA2018_Dong_815.pdf
+                  - generic [ref=e366]: IMWA：水害精准探测与高效治理
+                  - img [ref=e367]
+                - link "Coal Science and Technology 2024：地面定向钻注浆" [ref=e369] [cursor=pointer]:
+                  - /url: https://www.mtkxjs.com.cn/en/article/doi/10.12438/cst.2023-1261
+                  - generic [ref=e370]: Coal Science and Technology 2024：地面定向钻注浆
+                  - img [ref=e371]
+          - article [ref=e373]:
+            - generic [ref=e374]: 3D seismic
+            - heading "三维地震与透明地质正在重构矿井隐蔽灾害识别" [level=3] [ref=e375]
+            - paragraph [ref=e376]: 高精度三维地震结合钻探和矿井物探，可提高断层、陷落柱、古河道和富水区的综合解释可靠度。
+            - generic [ref=e377]:
+              - generic [ref=e378]: 国际前沿参考
+              - generic [ref=e379]:
+                - link "Scientific Reports 2024：矿井突水三维建模" [ref=e380] [cursor=pointer]:
+                  - /url: https://www.nature.com/articles/s41598-024-54180-z
+                  - generic [ref=e381]: Scientific Reports 2024：矿井突水三维建模
+                  - img [ref=e382]
+                - link "Water 2024：物探-钻探-水化学耦合识别" [ref=e384] [cursor=pointer]:
+                  - /url: https://www.mdpi.com/2073-4441/16/18/2619
+                  - generic [ref=e385]: Water 2024：物探-钻探-水化学耦合识别
+                  - img [ref=e386]
+          - article [ref=e388]:
+            - generic [ref=e389]: Mine electrical methods
+            - heading "矿井电法从单次探测走向动态监测和多源融合" [level=3] [ref=e390]
+            - paragraph [ref=e391]: 瞬变电磁、直流电法和电阻率成像可以与涌水量、水化学、DAS 数据协同，用于富水异常复核和治理闭环。
+            - generic [ref=e392]:
+              - generic [ref=e393]: 国际前沿参考
+              - generic [ref=e394]:
+                - link "Applied Sciences 2024：SUTEM 多含水层探测" [ref=e395] [cursor=pointer]:
+                  - /url: https://www.mdpi.com/2076-3417/14/20/9358
+                  - generic [ref=e396]: Applied Sciences 2024：SUTEM 多含水层探测
+                  - img [ref=e397]
+                - link "Applied Sciences 2022：TEM 探测含水陷落柱" [ref=e399] [cursor=pointer]:
+                  - /url: https://www.mdpi.com/2076-3417/12/22/11331
+                  - generic [ref=e400]: Applied Sciences 2022：TEM 探测含水陷落柱
+                  - img [ref=e401]
+      - link "进入行业资讯" [ref=e404] [cursor=pointer]:
+        - /url: /zh/news/industry
+        - text: 进入行业资讯
+        - img [ref=e405]
+    - generic [ref=e407]:
+      - generic [ref=e409]:
+        - generic [ref=e410]:
+          - generic [ref=e411]:
+            - img [ref=e412]
+            - text: 矿山安全知识滚动学习
+          - heading "把防治水经验转化为每天可学习的安全知识" [level=2] [ref=e414]
+        - paragraph [ref=e415]: 面向矿长、总工程师、地测防治水人员和一线技术骨干，持续输出可复盘、可培训、可落地的知识卡片。
+      - generic [ref=e417]:
+        - article [ref=e418]:
+          - heading "采掘前必须查清充水水源、通道和强度" [level=3] [ref=e419]
+          - paragraph [ref=e420]: 把“哪里有水、怎么导水、采动后会不会失稳”作为防治水设计的第一问题。
+        - article [ref=e421]:
+          - heading "底板突水评价不能只看单一突水系数" [level=3] [ref=e422]
+          - paragraph [ref=e423]: 应联合构造、隔水层、应力、采动破坏和治理效果形成综合判据。
+        - article [ref=e424]:
+          - heading "区域治理要有可验证的验收指标" [level=3] [ref=e425]
+          - paragraph [ref=e426]: 钻孔、注浆量、压水试验、物探异常和水文响应应形成序列验证链。
+        - article [ref=e427]:
+          - heading "总工程师要掌握水害风险的动态变化" [level=3] [ref=e428]
+          - paragraph [ref=e429]: 风险不是一次报告就结束，必须随采掘接续、构造揭露和监测数据持续修正。
+        - article [ref=e430]:
+          - heading "采掘前必须查清充水水源、通道和强度" [level=3] [ref=e431]
+          - paragraph [ref=e432]: 把“哪里有水、怎么导水、采动后会不会失稳”作为防治水设计的第一问题。
+        - article [ref=e433]:
+          - heading "底板突水评价不能只看单一突水系数" [level=3] [ref=e434]
+          - paragraph [ref=e435]: 应联合构造、隔水层、应力、采动破坏和治理效果形成综合判据。
+        - article [ref=e436]:
+          - heading "区域治理要有可验证的验收指标" [level=3] [ref=e437]
+          - paragraph [ref=e438]: 钻孔、注浆量、压水试验、物探异常和水文响应应形成序列验证链。
+        - article [ref=e439]:
+          - heading "总工程师要掌握水害风险的动态变化" [level=3] [ref=e440]
+          - paragraph [ref=e441]: 风险不是一次报告就结束，必须随采掘接续、构造揭露和监测数据持续修正。
+    - generic [ref=e444]:
+      - generic [ref=e445]:
+        - img "煤矿总工程技术交流之家" [ref=e446]
+        - generic [ref=e448]: 首批规划 200 个矿井总工程师席位
+      - generic [ref=e449]:
+        - generic [ref=e450]:
+          - img [ref=e451]
+          - text: 高端技术共同体
+        - heading "煤矿总工程技术交流之家" [level=2] [ref=e454]
+        - paragraph [ref=e455]: 面向煤矿总工程师、地测副总、防治水副总和生产技术负责人，建设第一批 200 个矿井总工程师席位，形成案例复盘、专家会诊、前沿学习和项目协同的高端技术共同体。
+        - generic [ref=e456]:
+          - generic [ref=e457]: 闭门技术沙龙
+          - generic [ref=e458]: 典型水害案例复盘
+          - generic [ref=e459]: 专家快速会诊
+          - generic [ref=e460]: 防治水标准化课题
+        - link "查看交流体系" [ref=e461] [cursor=pointer]:
+          - /url: /zh/academic
+          - text: 查看交流体系
+          - img [ref=e462]
+    - generic [ref=e465]:
+      - generic [ref=e466]:
+        - heading "学术合作网络" [level=2] [ref=e467]
+        - paragraph [ref=e469]: 与国内外知名高校和研究机构保持紧密学术合作关系
+      - generic [ref=e470]:
+        - generic [ref=e472]: 矿井水害防治与水资源利用 科研平台
+        - generic [ref=e474]: 中国矿业大学 资源与地球科学学院
+        - generic [ref=e476]: 中国矿业大学（北京） 地球科学与测绘工程学院
+        - generic [ref=e478]: 国家煤矿水害防治工程技术研究中心
+        - generic [ref=e480]: 国际矿山水协会 IMWA 中国国家委员会
+        - generic [ref=e482]: 深部采动国家重点实验室
+        - generic [ref=e484]: 中国煤炭科学研究总院 专家库
+        - generic [ref=e486]: 山东省重点研发计划 评审专家库
+  - contentinfo [ref=e487]:
+    - generic [ref=e488]:
+      - generic [ref=e489]:
+        - generic [ref=e490]:
+          - heading "联系方式" [level=3] [ref=e491]
+          - list [ref=e492]:
+            - listitem [ref=e493]:
+              - img [ref=e494]
+              - generic [ref=e497]: 北京市朝阳区北湖渠路15号
+            - listitem [ref=e498]:
+              - img [ref=e499]
+              - generic [ref=e501]: "+8617826088119"
+            - listitem [ref=e502]:
+              - img [ref=e503]
+              - generic [ref=e505]: tb17010007b0@cumt.edu.cn
+        - generic [ref=e506]:
+          - heading "快速链接" [level=3] [ref=e507]
+          - list [ref=e508]:
+            - listitem [ref=e509]:
+              - link "首页" [ref=e510] [cursor=pointer]:
+                - /url: /zh
+            - listitem [ref=e511]:
+              - link "关于我们" [ref=e512] [cursor=pointer]:
+                - /url: /zh/about
+            - listitem [ref=e513]:
+              - link "科技创新" [ref=e514] [cursor=pointer]:
+                - /url: /zh/research
+            - listitem [ref=e515]:
+              - link "技术服务" [ref=e516] [cursor=pointer]:
+                - /url: /zh/services
+            - listitem [ref=e517]:
+              - link "新闻中心" [ref=e518] [cursor=pointer]:
+                - /url: /zh/news
+        - generic [ref=e519]:
+          - heading "业务领域" [level=3] [ref=e520]
+          - list [ref=e521]:
+            - listitem [ref=e522]:
+              - link "技术咨询" [ref=e523] [cursor=pointer]:
+                - /url: /zh/services/consulting
+            - listitem [ref=e524]:
+              - link "水害评价" [ref=e525] [cursor=pointer]:
+                - /url: /zh/services/assessment
+            - listitem [ref=e526]:
+              - link "防治工程" [ref=e527] [cursor=pointer]:
+                - /url: /zh/services/engineering
+        - generic [ref=e528]:
+          - heading "关注我们" [level=3] [ref=e529]
+          - generic [ref=e530]:
+            - generic [ref=e532]:
+              - text: 微信公众号
+              - text: QR
+            - generic [ref=e533]: 微信公众号
+      - generic [ref=e534]:
+        - generic [ref=e535]:
+          - generic [ref=e537]: 鼎
+          - generic [ref=e538]: 北京鼎泰安采矿山水害防治研究院
+        - generic [ref=e539]:
+          - paragraph [ref=e540]: 北京鼎泰安采矿山水害防治研究院 版权所有
+          - paragraph [ref=e541]: 京ICP备XXXXXXXX号
+  - button "Open Next.js Dev Tools" [ref=e547] [cursor=pointer]:
+    - img [ref=e548]
+  - alert [ref=e551]
